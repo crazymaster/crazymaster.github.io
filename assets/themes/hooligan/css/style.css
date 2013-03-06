@@ -296,6 +296,11 @@ div.content div#page-index {
   color: #50a1cb !important;
 }
 
+.zocial.rss:focus,
+.zocial.rss:hover {
+  color:#fb9d3a !important;
+}  
+
 /* Layout */
 /* line 2, ../_sass/_responsive.scss */
 .navbar {

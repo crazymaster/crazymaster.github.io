@@ -18,7 +18,6 @@ author :
   github : crazymaster 
   twitter : ken54ik 
   googleplus : 109378471477960542752
-  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -75,6 +74,7 @@ JB :
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
+  atom_path : /atom.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
