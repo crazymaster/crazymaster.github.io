@@ -6,5 +6,3 @@ description: master's blog
 ---
 {% include JB/setup %}
 
-##準備中
-
